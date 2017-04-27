@@ -1,0 +1,5 @@
+kb mode was MEDIUMRAW
+[ if you are trying this under X, it might not work
+since the X server is also reading /dev/console ]
+
+press any key (program terminates 10s after last keypress)...
